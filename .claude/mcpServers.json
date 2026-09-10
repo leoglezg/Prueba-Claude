@@ -15,6 +15,9 @@
         "-y",
         "chrome-devtools-mcp@latest"
       ]
+    },
+    "higgsfield": {
+      "url": "https://mcp.higgsfield.ai/mcp"
     }
   }
 }
